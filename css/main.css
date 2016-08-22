@@ -1,0 +1,29 @@
+body{
+	margin: o;
+}
+.box{
+	background-color: grey;
+	border: 1px solid black;
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+}
+.rectangulo{
+	background-color: grey;
+	border: 1px solid black;
+	height: 110px;
+	width:330px;
+	margin-top: 20px;
+}
+.interno{
+	background-color: grey;
+	border: 1px solid black;
+	height: 95px;
+	width: 95px;
+	margin: 5px 5px 5px 5px;
+	display: inline-block;
+}
+.lado{
+	display: inline-block;
+	margin-right: 10px;
+}
